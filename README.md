@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enzo Ponferrada
-- 👀 I'm interested in Web Development.
-- 🌱 I’m currently learning React and APIs Rest in .NET Core.
+- 👀 I'm interested on make awesome web aplications and help others with my collaborations!.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on fun proyects with social impact.
 - 📫 How to reach me ...
   [Website](https://www.enzoponferrada.com.ar) [LinkedIn](https://www.linkedin.com/in/enzo-ponferrada/)
